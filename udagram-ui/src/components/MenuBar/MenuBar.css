@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=MonteCarlo&display=swap');
+
+ion-title {
+    font-weight: bold;
+    font-family: 'MonteCarlo', cursive;
+    font-size: 180%;
+}
